@@ -102,21 +102,3 @@ def build_person(first_name, last_name, age=None):
 
 # print(profile)
 
-# # usician)
-
-# # le)
-
-# # # usician)
-
-# # So your names are {first_name} {last_name}, of age {age}")
-
-# # print(profile)
-
-# # # usician)
-
-# # ast_name}, of age {age}")
-
-# # print(profile)
-
-# # # usician)
-
